@@ -1,0 +1,28 @@
+# Arquivos de configuração
+.env
+
+# Dependências instaladas
+/node_modules
+
+# Arquivos de compilação
+/dist
+
+# Arquivos temporários
+/.tmp
+
+# Logs e arquivos de saída
+/log
+*.log
+
+# Arquivos sensíveis
+.senv
+
+# Arquivos de IDE
+.idea
+.vscode
+
+# Outros arquivos e pastas gerados
+.DS_Store
+Thumbs.db
+
+# Personalize aqui adicionando mais regras conforme necessário
